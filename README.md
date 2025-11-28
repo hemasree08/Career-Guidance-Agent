@@ -26,7 +26,7 @@ A Gemini API Key (Obtained from Google AI Studio).
 
 Local Installation
 Clone the repository:
-git clone https://github.com/[your-username]/careermatrix-ai.git
+git clone https://github.com/hemasree08/careermatrix-ai.git
 cd careermatrix-ai
 
 Create and activate a virtual environment:
@@ -39,7 +39,7 @@ pip install google-generativeai gradio
 Environment Variable Setup
 You must set your API key as an environment variable:
 # Replace YOUR_API_KEY_HERE with your actual key
-export GEMINI_API_KEY="YOUR_API_KEY_HERE"
+export GEMINI_API_KEY="AIzaSyBo9RHE8jtaWx40ZV-7ksCR9yILvpoGg_I"
 
 Running the Application
 Execute the main script (assuming the file containing the create_interface and gr.Blocks definition is named career_matrix_ai.py).
